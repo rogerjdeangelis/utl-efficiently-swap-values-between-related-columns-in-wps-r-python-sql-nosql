@@ -13,6 +13,9 @@ Efficiently swap values between related columns in wps r python sql nosql
            5 wps python sql
            6 wps base r
 
+    github
+    https://tinyurl.com/57nvrr8x
+    https://github.com/rogerjdeangelis/utl-efficiently-swap-values-between-related-columns-in-wps-r-python-sql-nosql/pulls
 
     https://tinyurl.com/3d2p68mr
     https://stackoverflow.com/questions/77240071/efficiently-swap-values-between-related-columns-in-r
